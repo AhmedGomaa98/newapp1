@@ -13,3 +13,6 @@ class Calculations:
     def get_division(self):
         return print("Ahmed Gomaa")
 
+print("sajksakka")
+print("new changes")
+
