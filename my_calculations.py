@@ -16,3 +16,5 @@ class Calculations:
 print("sajksakka")
 print("new changes")
 
+print("Ahmed")
+
